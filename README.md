@@ -26,7 +26,7 @@ Interactive Dashboard untuk analisis 51,275 transaksi E-Commerce. Project ini fo
 **APRIJAL, S.E**
 Certified Data Analyst (BNSP) DQLab | Aspiring Data Scientist @ Digital Skola
 - Portfolio 1 (Python EDA): https://github.com/afrijalmo-cmyk/pembersihan-data-e-commerce-eda-python
-- LinkedIn: [Tambahkan Link LinkedIn Bapak di sini]
+- LinkedIn: [https://www.linkedin.com/in/aprijal-s-e-a76ba2318/]
 
 ---
 *Project ini bagian dari transisi karir ke Data Scientist - Bundling BNSP + Azure*
